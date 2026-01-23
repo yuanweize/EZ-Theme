@@ -12,6 +12,10 @@ build/
 # 忽略本地配置文件
 .env
 .env.*
+src/config/index.js
+src/config/index.js.bak
+src/config/index.js
+src/config/index.js.bak
 
 # 忽略 macOS 和 Windows 系统文件
 .DS_Store
